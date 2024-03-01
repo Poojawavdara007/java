@@ -171,6 +171,7 @@ public class ReservationSystem extends ReservationSystemBase {
         // Register user
         users.add(new User(username, password));
         System.out.println("User registered successfully.");
+         System.out.println("spokoejoejdie");
     }
 
     public void login(String username, String password) {
